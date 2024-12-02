@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA_AJC", "RSA_AJC\RSA_AJC.csproj", "{9D519E3A-D386-4619-BB79-DF6FA7088644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D519E3A-D386-4619-BB79-DF6FA7088644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D519E3A-D386-4619-BB79-DF6FA7088644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D519E3A-D386-4619-BB79-DF6FA7088644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D519E3A-D386-4619-BB79-DF6FA7088644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {748D4E02-01D3-4735-B18D-9C8CB178CF79}
+	EndGlobalSection
+EndGlobal
